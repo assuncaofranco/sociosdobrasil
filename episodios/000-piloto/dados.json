@@ -1,0 +1,4 @@
+{
+  "minerio": { "rotulo": "Minério de ferro", "valor": 100, "unidade": "US$/t", "fonte": "piloto-ilustrativo" },
+  "maquinas": { "rotulo": "Máquinas industriais", "valor": 20000, "unidade": "US$/t", "fonte": "piloto-ilustrativo" }
+}

@@ -1,0 +1,3 @@
+{
+  "exemplo": { "rotulo": "Rótulo que aparece na tela", "valor": 0, "unidade": "US$/t", "fonte": "chave-em-fontes.json" }
+}
