@@ -2,4 +2,6 @@ node_modules/
 out/
 episodios/*/gravacao/
 episodios/*/saida/
+musica/saida/
+musica/soundfonts/
 .DS_Store
